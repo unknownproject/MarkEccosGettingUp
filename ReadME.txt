@@ -1,1 +1,1 @@
-F1 - Activate debug windows
+F1 - Activate debug console
