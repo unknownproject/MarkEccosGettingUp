@@ -10,4 +10,4 @@ If you want to use 4k via DSR you need to manually change your resolution.
 Set the game to window mode if you have any problem:
 -Go to "Engine" folder;
 -Open Default_pc.cfg;
--Add fullscreen = 0 (if you already have it than just change it to 0);
+-Add fullscreen = 0 (if you already have it then just change it to 0);
