@@ -1,7 +1,7 @@
 Latest patch inludes:
-- Debug windows/console access [Press F1];
+- Debug windows/console access [Press Num0];
 - Fixed resolution menu code;
-- Widescreen support [1280x720 - 1600x900 - 1920x1080 - 3840x2160];
+- Widescreen support [1280x720 - 1600x900 - 1920x1080 - 3840x2160] [WIP];
 
 !!!!WARNING!!!!
 This is old build of The Slayer Engine.
